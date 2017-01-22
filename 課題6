@@ -1,0 +1,16 @@
+###レポート課題6
+
+
+ ![原画像](http://www.fastpic.jp/images.php?file=2081573947.jpg)
+
+　　　　　　　　　　　　　　　　図1 原画像
+                
+ 次に128で2値画像にしたときの結果である。
+ ![128画像](http://www.fastpic.jp/images.php?file=2746610939.jpg)
+
+　　　　　　　　　　　　　　　　図2 128で2値画像
+                
+  次に原画像をディザ法による二値化した結果を以下に示す。
+  ![ディザ画像](http://www.fastpic.jp/images.php?file=9189809211.jpg)
+
+　　　　　　　　　　　　　　　　図2 ディザ法でで2値画像
